@@ -1,16 +1,16 @@
-# 🤖 AI for Robotic — Sprint 1
+# AI for Robotic — Sprint 1
 ## Automação de Coleta, Registro e Atualização de Dados de Ativos
 ### Monitoramento Preditivo de Motores Elétricos Industriais
 
 ---
 
-## 📋 Sobre o Projeto
+##  Sobre o Projeto
 
 Sistema de automação RPA desenvolvido na **Sprint 1** para coleta, normalização, persistência e rastreabilidade de dados operacionais de motores elétricos industriais. A solução ingere dados de sensores IoT simulados e arquivos CSV legados, aplica um pipeline de transformação com validação física, persiste tudo em banco relacional e mantém histórico completo de auditoria.
 
 ---
 
-## 🏗️ Arquitetura
+##  Arquitetura
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
@@ -73,7 +73,7 @@ AI-for-Robotic-SPRINT-1/
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar
 
 ### Opção 1 — Google Colab (recomendado para avaliação)
 
@@ -108,7 +108,7 @@ jupyter notebook Sprint1_Motores_Eletricos.ipynb
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 | Tecnologia | Papel |
 |---|---|
@@ -123,7 +123,7 @@ jupyter notebook Sprint1_Motores_Eletricos.ipynb
 
 ---
 
-## 📊 Requisitos Funcionais — Atendimento
+##  Requisitos Funcionais — Atendimento
 
 | # | Requisito | Status |
 |---|---|---|
@@ -136,7 +136,7 @@ jupyter notebook Sprint1_Motores_Eletricos.ipynb
 
 ---
 
-## 🗄️ Banco de Dados — Evidências
+## Banco de Dados — Evidências
 
 Ao executar o notebook, o banco `motores.db` conterá:
 
@@ -148,7 +148,7 @@ Ao executar o notebook, o banco `motores.db` conterá:
 
 ---
 
-## 📈 Escalabilidade Futura
+##  Escalabilidade Futura
 
 | Eixo | Situação Sprint 1 | Evolução Planejada |
 |---|---|---|
@@ -160,6 +160,6 @@ Ao executar o notebook, o banco `motores.db` conterá:
 
 ---
 
-## 👥 Equipe
+##  Equipe
 
 Projeto desenvolvido pela equipe **ByParallel** — Sprint 1 de Automação com IA para Robótica.
